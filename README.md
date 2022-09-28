@@ -48,6 +48,7 @@ Create index.html file:
 Now run your index.html and open the console on Google chrome.
 
 Console.log() is a function which prints something to the browser console.
+![Screenshot 2022-09-28 at 15 31 42](https://user-images.githubusercontent.com/29931071/192809133-72695448-5f93-475c-a445-5d4f3d54c15b.png)
 
-![Screenshot 2022-09-28 at 15 08 13](https://user-images.githubusercontent.com/29931071/192808590-1cf5056e-f09f-440c-ae35-676ca7f6018b.png)
+
 
