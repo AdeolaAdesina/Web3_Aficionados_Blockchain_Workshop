@@ -18,3 +18,33 @@ Tools we will need to install:
 
 1. Visual Studio Code
 2. Google Chrome
+
+
+Step 1
+
+Create a folder named "Javascript".
+
+Open your terminal, navigate into the Javascript folder and open VScode( code . ).
+
+Create a script.js file and type:
+
+console.log("hello world");
+
+Create index.html file:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
