@@ -32,7 +32,7 @@ console.log("hello world");
 
 Create index.html file:
 
-   <!DOCTYPE html>
+   ```<!DOCTYPE html>
    <html lang="en">
    <head>
       <meta charset="UTF-8">
@@ -43,7 +43,7 @@ Create index.html file:
    <body>
       <script src="script.js"></script>
    </body>
-   </html>
+   </html>```
 
 Now run your index.html and open the console on Google chrome.
 
