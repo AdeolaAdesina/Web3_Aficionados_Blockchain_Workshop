@@ -45,6 +45,9 @@ Create index.html file:
 </body>
 </html>
 
+Now run your index.html and open the console on Google chrome.
 
+Console.log() is a function which prints something to the browser console.
 
+![Screenshot 2022-09-28 at 15 08 13](https://user-images.githubusercontent.com/29931071/192808590-1cf5056e-f09f-440c-ae35-676ca7f6018b.png)
 
