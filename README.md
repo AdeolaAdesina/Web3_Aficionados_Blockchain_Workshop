@@ -43,7 +43,9 @@ Create index.html file:
    <body>
       <script src="script.js"></script>
    </body>
-   </html>```
+   </html>
+  ```
+
 
 Now run your index.html and open the console on Google chrome.
 
